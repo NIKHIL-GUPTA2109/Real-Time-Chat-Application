@@ -6,10 +6,15 @@ This Real-Time Chat App is a web application that allows users to chat with each
 # Features
 
 User Registration and Authentication: Users can create accounts, log in, and log out securely.
+
 Create and Join Rooms: Users can create new chat rooms and join existing ones.
+
 Real-Time Messaging: Users can send and receive messages in real-time without needing to refresh the page.
+
 Room-Based Chat: Conversations are organized by rooms, allowing multiple concurrent discussions.
+
 User Profile: Users can update their profiles with a username and profile picture.
+
 Notifications: Users receive notifications for new messages when not actively viewing a room.
 
 # Technologies Used
